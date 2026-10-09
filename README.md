@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Data Analytics, backend tools, and financial tech**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://github.com/rahul-csda
 <p align="left">
 </p>
 
